@@ -1,6 +1,6 @@
 # MSI Afterburner Monitoring Config
 
-Personal backup of monitoring settings and OSD layout. 
+Personal backup of monitoring settings and OSD layout(GPU 1). 
 **No overclocking data included.**
 
 ### Setup
