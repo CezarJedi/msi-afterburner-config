@@ -10,3 +10,7 @@ Personal backup of monitoring settings and OSD layout(GPU 1).
 3. Copy `Global` to:  
    `C:\Program Files (x86)\RivaTuner Statistics Server\Profiles`
 4. Restart applications.
+
+### Reference
+Setup based on this video:
+https://www.youtube.com/watch?v=GgTGmfwwn9s
